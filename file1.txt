@@ -1,7 +1,7 @@
 Test1
 
 line1
-line2 - git bash change 2
+line2 - git bash change2
 line3
 change in git - line4
 line5
