@@ -2,7 +2,7 @@ Test1
 
 line1
 line2
-line3
+line3 bude riadok 3
 change in git - line4
 line5
 dalsia zmena doma
