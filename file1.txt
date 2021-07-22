@@ -6,3 +6,4 @@ line3
 change in git - line4
 line5
 dalsia zmena doma
+testovanie riadkov
