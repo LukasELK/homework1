@@ -2,11 +2,7 @@ Test1
 
 line1
 line2
-<<<<<<< HEAD
-line3 bude riadok 3
-=======
-line3 BUDE RIADOK 5
->>>>>>> c193a692328a3b4bd95b18680cb58bb855e66750
+line3
 change in git - line4
 line5
 dalsia zmena doma
