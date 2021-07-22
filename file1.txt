@@ -1,11 +1,8 @@
 Test1
 
 line1
-line2 - GIT BASH
+line2
 line3
-change in git - line4
+line4
 line5
-dalsia zmena doma
-testovanie riadkov
 
-odpoved z git hub
